@@ -1,4 +1,7 @@
-# Key Patch Proposer(KPP) algorithm
+# Key Patch Proposer(KPP) algorithm  
+
+This repo provide source code for **ICLR notable tiny** paper ["Key Patch Proposer: Key Patches Contain Rich Information"](https://arxiv.org/abs/2402.11458).
+
 This repo is a modification on the [MAE repo](https://github.com/facebookresearch/mae).
 ## Environment
 You should follow the instruction of MAE to prepare your environment. https://github.com/facebookresearch/mae
